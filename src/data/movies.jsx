@@ -143,7 +143,7 @@ const movies = [
     imdbVotes: "N/A",
   },
   {
-    title: "Rogue One: A Star Wars Story",
+    title: "Rogue One: A Star Wars",
     year: "2016",
     runtime: "N/A",
     director: "Gareth Edwards",
